@@ -3,7 +3,7 @@
 Analytics and UX case study that uses normalized engagement metrics to benchmark companies and propose prioritized UX and communication improvements.
 
 ## Deliverables
-- **Presentation (PPTX):** `docs/InvestorHub_CaseStudy_SruthiRajesh.pptx`
+- **Presentation (PPTX):** `docs/InvestorHub_CaseStudy_SruthiRajesh.pptx` (Have attached PDF for the same, of too large to view)
 
 ## Project Overview
 **Goal:** Evaluate investor engagement across email + platform usage, identify low-engagement segments, and propose UX + comms improvements.
